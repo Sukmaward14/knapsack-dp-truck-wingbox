@@ -14,7 +14,7 @@ Studi kasus:
   
 ## Fitur
 
-- Representasi data 10 jenis muatan (beras, semen, baja ringan, kayu olahan, pupuk, gula, minyak goreng, kertas, mesin kecil, plastik industri). [file:1]
+- Representasi data 10 jenis muatan (beras, semen, baja ringan, kayu olahan, pupuk, gula, minyak goreng, kertas, mesin kecil, plastik industri).
 - Perhitungan solusi optimal menggunakan tabel DP.
 - Proses backtracking untuk menentukan item mana yang terpilih.
 - Analisis singkat mengapa kombinasi yang dihasilkan bersifat optimal. 
@@ -23,5 +23,5 @@ Studi kasus:
 
 - `main.py` : Program utama untuk menjalankan algoritma 0/1 Knapsack dengan Dynamic Programming.
 - `data.py` (opsional) : Berisi data muatan dan kapasitas truk.
-- `README.md` : Dokumentasi proyek (file ini).
+- `README.md` : Dokumentasi proyek.
 
